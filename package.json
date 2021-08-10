@@ -1,0 +1,9 @@
+{
+  "name": "fse-using-thrid-party-packages",
+  "version": "1.0.0",
+  "description": "Uses a stat package",
+  "main": "index.js",
+  "repository": "https://github.com/Datapotomus/fse-using-thrid-party-packages.git",
+  "author": "Me",
+  "license": "MIT"
+}
